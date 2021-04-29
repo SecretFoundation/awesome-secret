@@ -1,4 +1,4 @@
-# Awesome Secret List 𝕊 :shushing_face:
+# Awesome Secret List :shushing_face: 𝕊
 
 This is a list of great [Secret Network](https://scrt.network) related projects, tools, games, and more!
 
