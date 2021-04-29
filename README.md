@@ -28,6 +28,7 @@ Official Secret Network resources
     [process](https://scrt.network/grant-application-process)
 * [SNACs](https://forum.scrt.network/t/open-discussion-snacs-secret-network-action-campaigns/3150) -
     Secret Network Action Campaigns
+* [Secret Agent Headquarters](https://agents.scrt.network/) - Home for community member collaboration
 * Community: [Discord](https://chat.scrt.network) · [Telegram](https://t.me/scrtCommunity) ·
   [Reddit](https://www.reddit.com/r/SecretNetwork/) · [Twitter](https://twitter.com/SecretNetwork)
 
