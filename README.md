@@ -53,7 +53,7 @@ Cool games built on the network
 Block Explorers and visualization tools
 
 ### Mainnet
-* [Secretnodes](https://secretnodes.com) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes](secretnode.org)
+* [Secretnodes](https://secretnodes.com) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes](https://secretnodes.org)
 * [Cashmaney Explorer](https://explorer.cashmaney.com) - One of the first explorers, run by core-dev
 * [Analytics Committee](https://secretanalytics.xyz/) - Analytics data collected about the Network, Bridges, and SecretSwap
 * [Xiphiar](https://scrthost.xiphiar.com/) - Tools by Xiphiar for better analysis of your SecretSwap LP tokens
