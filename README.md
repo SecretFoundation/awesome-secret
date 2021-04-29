@@ -77,11 +77,19 @@ Block Explorers and visualization tools
 
 Great and popular wallets for managing your Secret Address
 
-* [Keplr](https://keplr.app) - Highly featured wallet for the Cosmos ecosystem,
-    first wallet with full support of SNIP-20 Secret Tokens, **support for usage from any Secret dApp**
-* [Citadel One](https://citadel.one) - Great UI and assortment of supported networks,
-    second wallet with full support of SNIP-20 Secret Tokens and the Ethereum Bridge
-* [Cosmostation](https://wallet.cosmostation.io/) - Popular Cosmos wallet, partial support
+* [Keplr](https://keplr.app)
+    * Highly featured wallet for the entire Cosmos ecosystem
+    * First wallet with full support of SNIP-20 Secret Tokens
+    * **Support for usage from any Secret dApp**
+    * Web app + Browser extension
+* [Citadel One](https://citadel.one)
+    * Great UI and assortment of supported networks
+    * Second wallet with full support of SNIP-20 Secret Tokens
+    * Built-in support for the Ethereum Bridge
+    * Web app + Mobile wallet
+* [Cosmostation](https://wallet.cosmostation.io/)
+    * Popular Cosmos wallet, partial support
+    * Web app
 * [Ledger](https://build.scrt.network/ledger-nano-s.html) - Guide to using Ledger hardware wallet with Secret Network 
 
 ## Tools
