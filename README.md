@@ -49,7 +49,7 @@ Cool games built on the network
 
 * [Secret Heroes](https://secrethero.es/) - Deck building, auto-battler game based on collectible secretNFTs, built in Unity.
 * [Secret Holdem](https://github.com/enigmampc/SecretHoldEm/) - Texas Holdem game on testnet
-
+* [Rock Paper Scissors](https://github.com/lindlof/secret_rock_paper_scissors) - Rock paper scissors game without commit-reveal
 ## Explorers
 
 Block Explorers and visualization tools
