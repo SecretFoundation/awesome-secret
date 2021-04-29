@@ -2,6 +2,8 @@
 
 This is a list of great [Secret Network](https://scrt.network) related projects, tools, games, and more!
 
+Feel free to suggest changes as discussions, issues, or PRs :sparkles:
+
 * [General Resources](#general-resources)
 * [Products](#products)
 * [Games](#games)
