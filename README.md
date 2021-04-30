@@ -95,9 +95,9 @@ Great and popular wallets for managing your Secret Address
     * :soon: Built-in support for the Ethereum Bridge
     * Validator on the network
     * Web app + Mobile wallet
-* [Cosmostation](https://wallet.cosmostation.io/)
-    * Popular Cosmos wallet, partial support
-    * Web app
+* [Secret Tipbot](https://twitter.com/secret_tipbot) by validator [SG-1][sg-1]
+    * Send SCRT to other Twitter users with a tweet
+    * Send SCRT to other Telegram users with a command
 * [Ledger](https://build.scrt.network/ledger-nano-s.html) - Guide to using Ledger hardware wallet with Secret Network 
 
 ## Guides
@@ -143,6 +143,7 @@ Examples of reference Secret Contract implementations
 [citadel]: <https://citadel.one>
 [secretnodes]: <https://secretnodes.org>
 [securesecrets]: <https://www.securesecrets.org>
+[sg-1]: <https://sg-1.online/>
 [stakeordie]: <https://stakeordie.com/>
 [whispernode]: <https://www.whispernode.com/>
 [yflink]: <https://yflink.io/>
