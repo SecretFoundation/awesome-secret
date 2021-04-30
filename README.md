@@ -42,12 +42,12 @@ Official Secret Network resources
 
 Large products that launched (or will launch very soon) on the Secret Network
 
-* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Converter from SCRT to secretSCRT, by [Keplr](https://keplr.app)
-* [Ethereum bridge](https://bridge.scrt.network/) - Bridge to Ethereum for ETH and ERC-20 tokens
-    * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link](https://yflink.io/)
+* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Converter from SCRT to secretSCRT, by [Chainapsis][chainapsis]
+* [Ethereum bridge](https://bridge.scrt.network/) - Turn ETH and ERC-20 tokens into SNIP-20 privacy tokens
+    * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link][yflink]
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
-* [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
+* :soon: [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 
 ## Games
 
@@ -62,36 +62,38 @@ Cool games built on the network
 Block Explorers and visualization tools
 
 ### Mainnet
-* [Secretnodes](https://secretnodes.com) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes](https://secretnodes.org)
-* [Cashmaney Explorer](https://explorer.cashmaney.com) - One of the first explorers, run by core-dev
+* [Secretnodes](https://secretnodes.com) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
+* [Cashmaney Explorer](https://explorer.cashmaney.com) - One of the first explorers, run by core-dev Cashmaney
 * [Secret Analytics](https://secretanalytics.xyz/) - Analytics data collected about the Network, Bridges, and SecretSwap
 * [Xiphiar](https://scrthost.xiphiar.com/) - Tools by Xiphiar for better analysis of your SecretSwap LP tokens
 
 ### Testnet
-`holodeck-2`
-* [Faucet](https://faucet.secrettestnet.io/)
-* [Secretnodes](https://secretnodes.com/secret/chains/holodeck-2)
-* [SecretTestnet](https://explorer.secrettestnet.io/) - Maintained by validator [ChainOfSecrets](https://chainofsecrets.org/)
+`holodeck-2` - Maintained by validator [Chain of Secrets][chainofsecrets]
+* [Faucet](https://faucet.secrettestnet.io/) - Run by validator [Chain of Secrets][chainofsecrets]
+* [Secretnodes](https://secretnodes.com/secret/chains/holodeck-2) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
+* [SecretTestnet](https://explorer.secrettestnet.io/) - Explorer run by validator [Chain of Secrets][chainofsecrets]
 
 ### Staking Calculators
-* [Secure Secrets](https://www.securesecrets.org/validatorcalculator) - For validators
-* [Secure Secrets](https://www.securesecrets.org/stakingcalculator) - For stakers
-* [Stake Or Die](https://stakeordie.com/rewards-calculator) - For stakers
-* [StakingRewards](https://www.stakingrewards.com/earn/secret-network) - For stakers
+* [For stakers](https://www.securesecrets.org/stakingcalculator) · 
+    [For validators](https://www.securesecrets.org/validatorcalculator) -
+    By validator [Secure Secrets][securesecrets]
+* [For stakers](https://stakeordie.com/rewards-calculator) - By Validator [Stake or Die][stakeordie]
+* [For stakers](https://www.stakingrewards.com/earn/secret-network) - By [Staking Rewards](https://www.stakingrewards.com)
 
 ## Wallets
 
 Great and popular wallets for managing your Secret Address
 
-* [Keplr](https://keplr.app)
+* [Keplr](https://keplr.app) by [Chainapsis][chainapsis]
     * Highly featured wallet for the entire Cosmos ecosystem
     * First wallet with full support of SNIP-20 Secret Tokens
     * **Support for usage from any Secret dApp**
-    * Web app + Browser extension
-* [Citadel One](https://citadel.one)
+    * Web app + Browser extension + :soon: Mobile wallet
+* [Citadel One][citadel]
     * Great UI and assortment of supported networks
-    * Second wallet with full support of SNIP-20 Secret Tokens
-    * Built-in support for the Ethereum Bridge
+    * :soon: Second wallet with full support of SNIP-20 Secret Tokens
+    * :soon: Built-in support for the Ethereum Bridge
+    * Validator on the network
     * Web app + Mobile wallet
 * [Cosmostation](https://wallet.cosmostation.io/)
     * Popular Cosmos wallet, partial support
@@ -114,9 +116,9 @@ Guides on using and building on the Secret Network
 Video channels dedicated to Secret Network guides and tutorials
 
 * [Official Secret Network Youtube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw/) - Run by the Secret Foundation
-* [Whisper Node](https://www.youtube.com/channel/UChAbgpsMHT3ooZfWmjjUtKg/videos) - Validator
-* [Secure Secrets](https://www.youtube.com/c/SecureSecrets/videos) - Validator
-* [Travis Bonfigli](https://www.youtube.com/c/TravisBonfigli/) - Has a series on Secret Network
+* [Whisper Node Youtube](https://www.youtube.com/channel/UChAbgpsMHT3ooZfWmjjUtKg/videos) - By validator [Whisper Node][whispernode]
+* [Secure Secrets Youtube](https://www.youtube.com/c/SecureSecrets/videos) - By validator [Secure Secrets][securesecrets]
+* [Travis Bonfigli Youtube](https://www.youtube.com/c/TravisBonfigli/) - Has a series on Secret Network
 
 ## Developer Tools
 
@@ -124,7 +126,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
-* [Secret API](https://secretapi.io/) - Web API for using Secret Network
+* [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
 
 ## Reference Contracts
 
@@ -134,3 +136,13 @@ Examples of reference Secret Contract implementations
 * [SNIP-20](https://github.com/enigmampc/snip20-reference-impl) - Reference SNIP-20 contract implementation (Secret Tokens)
 * [Configurable SNIP-20](https://github.com/baedrik/configurable-snip20) - Extended SNIP-20 implementation with great extra features
 * [SNIP-721](https://github.com/baedrik/snip721-reference-impl) - Reference SNIP-721 contract implementation (Secret NFTs)
+
+<!-- contributor links -->
+[chainapsis]: <https://chainapsis.com/>
+[chainofsecrets]: <https://chainofsecrets.org/>
+[citadel]: <https://citadel.one>
+[secretnodes]: <https://secretnodes.org>
+[securesecrets]: <https://www.securesecrets.org>
+[stakeordie]: <https://stakeordie.com/>
+[whispernode]: <https://www.whispernode.com/>
+[yflink]: <https://yflink.io/>
