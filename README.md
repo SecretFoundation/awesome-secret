@@ -53,7 +53,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 
 Cool games built on the network
 
-* [Secret Heroes](https://secrethero.es/) - Deck building, auto-battler game based on collectible secretNFTs, built in Unity.
+* [Secret Heroes](https://secrethero.es/) - Deck building, auto-battler game based on collectible secretNFTs, built in Unity
 * [Secret Holdem](https://holdem.enigma.co/) - Texas Holdem game on testnet ([Codebase](https://github.com/enigmampc/SecretHoldEm/))
 * [Rock Paper Scissors](https://testrps.lindlof.io/) - Rock paper scissors game without commit-reveal on testnet ([Codebase](https://github.com/lindlof/secret_rock_paper_scissors))
 
@@ -107,7 +107,7 @@ Guides on using and building on the Secret Network
 ### Text Tutorials
 
 * [Official Tutorials](https://build.scrt.network/dev/tutorials.html) - Official Tutorials written by the community
-* [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment](https://figment.io/)
+* [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment][figment]
 * [Creating my first secret contract](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
     Tutorial by DarwinZero
 
@@ -124,9 +124,11 @@ Video channels dedicated to Secret Network guides and tutorials
 
 Tools for interacting with the secret network and for writing Secret Contracts
 
+* [Local Node](https://hub.docker.com/r/enigmampc/secret-network-sw-dev) - Start a docker container with a standalone network
+* [Secret DataHub](https://figment.io/datahub/secret-network/) by [Figment][figment] - Quickly set up a Secret Node on mainnet or testnet for your application
+* [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
-* [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
 
 ## Reference Contracts
 
@@ -141,6 +143,7 @@ Examples of reference Secret Contract implementations
 [chainapsis]: <https://chainapsis.com/>
 [chainofsecrets]: <https://chainofsecrets.org/>
 [citadel]: <https://citadel.one>
+[figment]: <https://figment.io/>
 [secretnodes]: <https://secretnodes.org>
 [securesecrets]: <https://www.securesecrets.org>
 [sg-1]: <https://sg-1.online/>
