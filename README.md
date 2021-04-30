@@ -26,6 +26,7 @@ Official Secret Network resources
 * [Blog](https://scrt.network/blog/) - Official Secret Network blog
 * [Wiki](https://build.scrt.network/) - Official Secret Network wiki
 * [Old Wiki](https://learn.scrt.network/) - Older Wiki with some old resources
+* Graypaper by @CarterLWoetzel - [Web](https://scrt.network/graypaper) · [PDF](https://www.securesecrets.org/papers)
 * [Specifications](https://github.com/SecretFoundation/SNIPs/) - SNIPs - Secret Network Improvement Proposals
 * [Grant Applications](https://github.com/SecretFoundation/Grants/issues) -
     [announcement](https://scrt.network/blog/announcing-secret-network-grant-program) ·
