@@ -43,7 +43,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 
 * [Ethereum bridge](https://bridge.scrt.network/) - Bridge to Ethereum for ETH and ERC-20 tokens
     * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link](https://yflink.io/)
-* [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM · [Twitter](https://twitter.com/secret_swap)
+* [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
 * [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 
