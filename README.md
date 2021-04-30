@@ -8,11 +8,15 @@ Feel free to suggest changes as discussions, issues, or PRs :sparkles:
 * [Products](#products)
 * [Games](#games)
 * [Explorers](#explorers)
+    * [Mainnet](#mainnet)
+    * [Testnet](#testnet)
+    * [Staking Calculators](#staking-calculators)
 * [Wallets](#wallets)
-* [Tools](#tools)
-* [Reference Contracts](#reference-contracts)
 * [Guides](#Guides)
-* [Video Tutorials](#video-tutorials)
+    * [Text Tutorials](#text-tutorials)
+    * [Video Tutorials](#video-tutorials)
+* [Developer Tools](#developer-tools)
+* [Reference Contracts](#reference-contracts)
 
 ## General Resources
 
@@ -22,7 +26,6 @@ Official Secret Network resources
 * [Blog](https://scrt.network/blog/) - Official Secret Network blog
 * [Wiki](https://build.scrt.network/) - Official Secret Network wiki
 * [Old Wiki](https://learn.scrt.network/) - Older Wiki with some old resources
-* [Forum](https://forum.scrt.network/) - Official Secret Network forum
 * [Specifications](https://github.com/SecretFoundation/SNIPs/) - SNIPs - Secret Network Improvement Proposals
 * [Grant Applications](https://github.com/SecretFoundation/Grants/issues) -
     [announcement](https://scrt.network/blog/announcing-secret-network-grant-program) ·
@@ -31,7 +34,7 @@ Official Secret Network resources
 * [SNACs](https://forum.scrt.network/t/open-discussion-snacs-secret-network-action-campaigns/3150) -
     Secret Network Action Campaigns
 * [Secret Agent Headquarters](https://agents.scrt.network/) - Home for community member collaboration
-* Community: [Discord](https://chat.scrt.network) · [Telegram](https://t.me/scrtCommunity) ·
+* Community: [Forum](https://forum.scrt.network/) · [Discord](https://chat.scrt.network) · [Telegram](https://t.me/scrtCommunity) ·
   [Reddit](https://www.reddit.com/r/SecretNetwork/) · [Twitter](https://twitter.com/SecretNetwork)
 
 ## Products
@@ -67,7 +70,7 @@ Block Explorers and visualization tools
 * [Secretnodes](https://secretnodes.com/secret/chains/holodeck-2)
 * [SecretTestnet](https://explorer.secrettestnet.io/) - Maintained by validator [ChainOfSecrets](https://chainofsecrets.org/)
 
-### Staking calculators
+### Staking Calculators
 * [Secure Secrets](https://www.securesecrets.org/validatorcalculator) - For validators
 * [Secure Secrets](https://www.securesecrets.org/stakingcalculator) - For stakers
 * [Stake Or Die](https://stakeordie.com/rewards-calculator) - For stakers
@@ -92,7 +95,27 @@ Great and popular wallets for managing your Secret Address
     * Web app
 * [Ledger](https://build.scrt.network/ledger-nano-s.html) - Guide to using Ledger hardware wallet with Secret Network 
 
-## Tools
+## Guides
+
+Guides on using and building on the Secret Network
+
+### Text Tutorials
+
+* [Official Tutorials](https://build.scrt.network/dev/tutorials.html) - Official Tutorials written by the community
+* [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment](https://figment.io/)
+* [Creating my first secret contract](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
+    Tutorial by DarwinZero
+
+### Video Tutorials
+
+Video channels dedicated to Secret Network guides and tutorials
+
+* [Official Secret Network Youtube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw/) - Run by the Secret Foundation
+* [Whisper Node](https://www.youtube.com/channel/UChAbgpsMHT3ooZfWmjjUtKg/videos) - Validator
+* [Secure Secrets](https://www.youtube.com/c/SecureSecrets/videos) - Validator
+* [Travis Bonfigli](https://www.youtube.com/c/TravisBonfigli/) - Has a series on Secret Network
+
+## Developer Tools
 
 Tools for interacting with the secret network and for writing Secret Contracts
 
@@ -108,21 +131,3 @@ Examples of reference Secret Contract implementations
 * [SNIP-20](https://github.com/enigmampc/snip20-reference-impl) - Reference SNIP-20 contract implementation (Secret Tokens)
 * [Configurable SNIP-20](https://github.com/baedrik/configurable-snip20) - Extended SNIP-20 implementation with great extra features
 * [SNIP-721](https://github.com/baedrik/snip721-reference-impl) - Reference SNIP-721 contract implementation (Secret NFTs)
-
-## Guides
-
-Guides on using and building on the Secret Network
-
-* [Official Tutorials](https://build.scrt.network/dev/tutorials.html) - Official Tutorials written by the community
-* [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment](https://figment.io/)
-* [DarwinZero](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
-    "Creating my first secret contract"
-
-## Video Tutorials
-
-Video channels dedicated to Secret Network guides and tutorials
-
-* [Official Secret Network Youtube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw/) - Run by the Secret Foundation
-* [Whisper Node](https://www.youtube.com/channel/UChAbgpsMHT3ooZfWmjjUtKg/videos) - Validator
-* [Secure Secrets](https://www.youtube.com/c/SecureSecrets/videos) - Validator
-* [Travis Bonfigli](https://www.youtube.com/c/TravisBonfigli/) - Has a series on Secret Network
