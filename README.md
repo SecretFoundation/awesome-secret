@@ -41,6 +41,7 @@ Official Secret Network resources
 
 Large products that launched (or will launch very soon) on the Secret Network
 
+* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Converter from SCRT to secretSCRT, by [Keplr](https://keplr.app)
 * [Ethereum bridge](https://bridge.scrt.network/) - Bridge to Ethereum for ETH and ERC-20 tokens
     * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link](https://yflink.io/)
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
