@@ -12,14 +12,12 @@ Feel free to suggest changes as discussions, issues, or PRs :sparkles:
     * [Testnet](#testnet)
     * [Staking Calculators](#staking-calculators)
 * [Wallets](#wallets)
-* [Guides](#Guides)
-    * [Text Tutorials](#text-tutorials)
-    * [Video Tutorials](#video-tutorials)
+* [User Guides](#user-guides)
+* [Developer Guides](#developer-guides)
 * [Developer Tools](#developer-tools)
 * [Reference Contracts](#reference-contracts)
 
 ## General Resources
-
 Official Secret Network resources
 
 * [Main website!](https://scrt.network/) - Official Secret Network website
@@ -39,7 +37,6 @@ Official Secret Network resources
   [Reddit](https://www.reddit.com/r/SecretNetwork/) · [Twitter](https://twitter.com/SecretNetwork)
 
 ## Products
-
 Large products that launched (or will launch very soon) on the Secret Network
 
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Converter from SCRT to secretSCRT, by [Chainapsis][chainapsis]
@@ -50,7 +47,6 @@ Large products that launched (or will launch very soon) on the Secret Network
 * :soon: [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 
 ## Games
-
 Cool games built on the network
 
 * [Secret Heroes](https://secrethero.es/) - Deck building, auto-battler game based on collectible secretNFTs, built in Unity
@@ -58,7 +54,6 @@ Cool games built on the network
 * [Rock Paper Scissors](https://testrps.lindlof.io/) - Rock paper scissors game without commit-reveal on testnet ([Codebase](https://github.com/lindlof/secret_rock_paper_scissors))
 
 ## Explorers
-
 Block Explorers and visualization tools
 
 ### Mainnet
@@ -81,7 +76,6 @@ Block Explorers and visualization tools
 * [For stakers](https://www.stakingrewards.com/earn/secret-network) - By [Staking Rewards](https://www.stakingrewards.com)
 
 ## Wallets
-
 Great and popular wallets for managing your Secret Address
 
 * [Keplr](https://keplr.app) by [Chainapsis][chainapsis]
@@ -100,28 +94,30 @@ Great and popular wallets for managing your Secret Address
     * Send SCRT to other Telegram users with a command
 * [Ledger](https://build.scrt.network/ledger-nano-s.html) - Guide to using Ledger hardware wallet with Secret Network 
 
-## Guides
-
-Guides on using and building on the Secret Network
+## User Guides
+Guides about using the Secret Network
 
 ### Text Tutorials
 
-* [Official Tutorials](https://build.scrt.network/dev/tutorials.html) - Official Tutorials written by the community
-* [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment][figment]
-* [Creating my first secret contract](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
-    Tutorial by DarwinZero
+* [Secure Secrets Tutorials](https://securesecrets-org.medium.com/secure-secrets-tutorials-meta-thread-df51b84fa35) -
+    Guides on using products in the ecosystem by [Secure Secrets][securesecrets]
 
 ### Video Tutorials
-
-Video channels dedicated to Secret Network guides and tutorials
 
 * [Official Secret Network Youtube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw/) - Run by the Secret Foundation
 * [Whisper Node Youtube](https://www.youtube.com/channel/UChAbgpsMHT3ooZfWmjjUtKg/videos) - By validator [Whisper Node][whispernode]
 * [Secure Secrets Youtube](https://www.youtube.com/c/SecureSecrets/videos) - By validator [Secure Secrets][securesecrets]
 * [Travis Bonfigli Youtube](https://www.youtube.com/c/TravisBonfigli/) - Has a series on Secret Network
 
-## Developer Tools
+## Developer Guides
+Guides about building on the Secret Network
 
+* [Official Tutorials](https://build.scrt.network/dev/tutorials.html) - Official Tutorials written by the community
+* [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment][figment]
+* [Creating my first secret contract](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
+    Tutorial by DarwinZero
+
+## Developer Tools
 Tools for interacting with the secret network and for writing Secret Contracts
 
 * [Local Node](https://hub.docker.com/r/enigmampc/secret-network-sw-dev) - Start a docker container with a standalone network
@@ -131,7 +127,6 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
 
 ## Reference Contracts
-
 Examples of reference Secret Contract implementations
 
 * [Secret Template](https://github.com/enigmampc/secret-template) - Quickstart template to start developing Secret Contracts
