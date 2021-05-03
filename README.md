@@ -26,15 +26,19 @@ Official Secret Network resources
 * [Old Wiki](https://learn.scrt.network/) - Older Wiki with some old resources
 * Graypaper by Carter Woetzel - [Web](https://scrt.network/graypaper) · [PDF](https://www.securesecrets.org/papers)
 * [Specifications](https://github.com/SecretFoundation/SNIPs/) - SNIPs - Secret Network Improvement Proposals
+
+Community activity
+
+* Community channels: [Forum](https://forum.scrt.network/) · [Discord](https://chat.scrt.network) · [Telegram](https://t.me/scrtCommunity) ·
+    [Reddit](https://www.reddit.com/r/SecretNetwork/) · [Twitter](https://twitter.com/SecretNetwork)
+* [Secret Agent Headquarters](https://agents.scrt.network/) - Home for community member collaboration
 * [Grant Applications](https://github.com/SecretFoundation/Grants/issues) -
     [announcement](https://scrt.network/blog/announcing-secret-network-grant-program) ·
     [ideas](https://scrt.network/grant-application-ideas) ·
     [process](https://scrt.network/grant-application-process)
 * [SNACs](https://forum.scrt.network/t/open-discussion-snacs-secret-network-action-campaigns/3150) -
     Secret Network Action Campaigns
-* [Secret Agent Headquarters](https://agents.scrt.network/) - Home for community member collaboration
-* Community: [Forum](https://forum.scrt.network/) · [Discord](https://chat.scrt.network) · [Telegram](https://t.me/scrtCommunity) ·
-  [Reddit](https://www.reddit.com/r/SecretNetwork/) · [Twitter](https://twitter.com/SecretNetwork)
+* [Secret Fellows](https://scrt.network/blog/secret-fellows-developer-program) - Developer mentorship program
 
 ## Products
 Large products that launched (or will launch very soon) on the Secret Network
@@ -101,6 +105,7 @@ Guides about using the Secret Network
 
 * [Secure Secrets Tutorials](https://securesecrets-org.medium.com/secure-secrets-tutorials-meta-thread-df51b84fa35) -
     Guides on using products in the ecosystem by validator [Secure Secrets][securesecrets]
+* More tutorials available on the Secret Network [Blog](https://scrt.network/blog/)
 
 ### Video Tutorials
 
@@ -115,6 +120,8 @@ Guides about building on the Secret Network
 * [Official Tutorials](https://build.scrt.network/dev/tutorials.html) - Official Tutorials written by the community
 * [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment][figment]
 * [Creating my first secret contract](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
+    Tutorial by DarwinZero
+* [Developing your first secret contract](https://github.com/darwinzer0/secret-contract-tutorials/tree/main/tutorial1) -
     Tutorial by DarwinZero
 
 ## Developer Tools
