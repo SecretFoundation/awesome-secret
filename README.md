@@ -100,7 +100,7 @@ Guides about using the Secret Network
 ### Text Tutorials
 
 * [Secure Secrets Tutorials](https://securesecrets-org.medium.com/secure-secrets-tutorials-meta-thread-df51b84fa35) -
-    Guides on using products in the ecosystem by [Secure Secrets][securesecrets]
+    Guides on using products in the ecosystem by validator [Secure Secrets][securesecrets]
 
 ### Video Tutorials
 
