@@ -89,8 +89,8 @@ Great and popular wallets for managing your Secret Address
     * Web app + Browser extension + :soon: Mobile wallet
 * [Citadel One][citadel]
     * Great UI and assortment of supported networks
-    * :soon: Second wallet with full support of SNIP-20 Secret Tokens
-    * :soon: Built-in support for the Ethereum Bridge
+    * Second wallet with full support of SNIP-20 Secret Tokens
+    * :soon: Built-in support for sending assets accross the Ethereum Bridge
     * Validator on the network
     * Web app + Mobile wallet
 * [Secret Tipbot](https://twitter.com/secret_tipbot) by validator [SG-1][sg-1]
