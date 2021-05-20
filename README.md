@@ -93,9 +93,14 @@ Great and popular wallets for managing your Secret Address
     * :soon: Built-in support for sending assets accross the Ethereum Bridge
     * Validator on the network
     * Web app + Mobile wallet
-* [Secret Tipbot](https://twitter.com/secret_tipbot) by validator [SG-1][sg-1]
+* [Secret Tipbot](https://twitter.com/secret_tipbot) by validator [SG-1][sg-1] ([Guide](https://medium.com/@Cosmostipbot/the-secret-tipbot-is-now-live-d2bd7ef1be94))
+    * Funded by the community ([Proposal](https://secretnodes.com/secret/chains/secret-2/governance/proposals/26))
     * Send SCRT to other Twitter users with a tweet
     * Send SCRT to other Telegram users with a command
+* [Sputnik Exchange](https://sputnik.exchange/) ([Guide](https://www.youtube.com/watch?v=NwiI6xXkMcw))
+    * Send SCRT to other Twitter users with a tweet
+    * Send SCRT to other Telegram users with a command
+    * Buy and sell SCRT from/to other users of Sputnik
 * [Ledger](https://build.scrt.network/ledger-nano-s.html) - Guide to using Ledger hardware wallet with Secret Network 
 
 ## User Guides
