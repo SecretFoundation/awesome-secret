@@ -143,7 +143,6 @@ Examples of reference Secret Contract implementations
 
 * [Secret Template](https://github.com/enigmampc/secret-template) - Quickstart template to start developing Secret Contracts
 * [SNIP-20](https://github.com/enigmampc/snip20-reference-impl) - Reference SNIP-20 contract implementation (Secret Tokens)
-* [Configurable SNIP-20](https://github.com/baedrik/configurable-snip20) - Extended SNIP-20 implementation with great extra features
 * [SNIP-721](https://github.com/baedrik/snip721-reference-impl) - Reference SNIP-721 contract implementation (Secret NFTs)
 
 <!-- contributor links -->
