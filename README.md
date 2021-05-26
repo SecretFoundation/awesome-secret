@@ -137,6 +137,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
+* [Smart Contract Interface](https://www.btn.group/secret_network/smart_contract_interface) - Browser interface for smart contracts by [btn.group]
 
 ## Reference Contracts
 Examples of reference Secret Contract implementations
@@ -146,6 +147,7 @@ Examples of reference Secret Contract implementations
 * [SNIP-721](https://github.com/baedrik/snip721-reference-impl) - Reference SNIP-721 contract implementation (Secret NFTs)
 
 <!-- contributor links -->
+[btn.group]: <https://www.btn.group>
 [chainapsis]: <https://chainapsis.com/>
 [chainofsecrets]: <https://chainofsecrets.org/>
 [citadel]: <https://citadel.one>
