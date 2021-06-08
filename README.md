@@ -115,7 +115,7 @@ Guides about using the Secret Network
 
 ### Video Tutorials
 
-* [Official Secret Network Youtube](https://www.youtube.com/channel/UCZPqj7h7mzjwuSfw_UWxQPw/) - Run by the Secret Foundation
+* [Official Secret Network Youtube](https://www.youtube.com/c/SecretNetworkOfficial) - Run by the Secret Foundation
 * [Whisper Node Youtube](https://www.youtube.com/channel/UChAbgpsMHT3ooZfWmjjUtKg/videos) - By validator [Whisper Node][whispernode]
 * [Secure Secrets Youtube](https://www.youtube.com/c/SecureSecrets/videos) - By validator [Secure Secrets][securesecrets]
 * [Travis Bonfigli Youtube](https://www.youtube.com/playlist?list=PL6Tc4k6dl9kK4gmFDdMXVwTiXuS-COgV8) - Has a series on Secret Network
