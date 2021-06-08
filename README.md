@@ -129,6 +129,8 @@ Guides about building on the Secret Network
     Tutorial by DarwinZero
 * [Developing your first secret contract](https://github.com/darwinzer0/secret-contract-tutorials/tree/main/tutorial1) -
     Tutorial by DarwinZero
+* [How to build a Keplr Staking Web App](https://securesecrets-org.medium.com/secret-network-developer-tutorial-how-to-build-a-keplr-staking-app-49dfeb25abe4) -
+    Tutorial by validator [Secure Secrets][securesecrets]
 
 ## Developer Tools
 Tools for interacting with the secret network and for writing Secret Contracts
