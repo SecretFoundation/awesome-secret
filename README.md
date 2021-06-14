@@ -43,9 +43,11 @@ Community activity
 ## Products
 Large products that launched (or will launch very soon) on the Secret Network
 
-* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Converter from SCRT to secretSCRT, by [Chainapsis][chainapsis]
+* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
+    * Also available in [Citadel One][citadel] wallet
 * [Ethereum bridge](https://bridge.scrt.network/) - Turn ETH and ERC-20 tokens into SNIP-20 privacy tokens
     * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link][yflink]
+    * Also supported in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
 * :soon: [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
@@ -87,11 +89,13 @@ Great and popular wallets for managing your Secret Address
     * Highly featured wallet for the entire Cosmos ecosystem
     * First wallet with full support of SNIP-20 Secret Tokens
     * **Support for usage from any Secret dApp**
+    * Convert between SCRT and sSCRT ([in web app](https://wallet.keplr.app/#/secret/secret-secret))
     * Web app + Browser extension + :soon: Mobile wallet
 * [Citadel One][citadel]
     * Great UI and assortment of supported networks
     * Second wallet with full support of SNIP-20 Secret Tokens
-    * :soon: Built-in support for sending assets accross the Ethereum Bridge
+    * Built-in support for sending assets across the Ethereum Bridge
+    * Convert between SCRT and sSCRT
     * Validator on the network
     * Web app + Mobile wallet
 * [Secret Tipbot](https://twitter.com/secret_tipbot) by validator [SG-1][sg-1] ([Guide](https://medium.com/@Cosmostipbot/the-secret-tipbot-is-now-live-d2bd7ef1be94))
