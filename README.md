@@ -45,7 +45,9 @@ Large products that launched (or will launch very soon) on the Secret Network
 
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
     * Also available in [Citadel One][citadel] wallet
-* [Ethereum bridge](https://bridge.scrt.network/) - Turn ETH and ERC-20 tokens into SNIP-20 privacy tokens
+* [Secret Bridges](https://bridge.scrt.network/)
+    * Turn ETH and ERC-20 tokens into SNIP-20 privacy tokens
+    * Turn BNB and BEP-20 tokens into SNIP-20 privacy tokens
     * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link][yflink]
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
