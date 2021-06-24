@@ -117,6 +117,7 @@ Guides about using the Secret Network
 
 * [Secure Secrets Tutorials](https://securesecrets-org.medium.com/secure-secrets-tutorials-meta-thread-df51b84fa35) -
     Guides on using products in the ecosystem by validator [Secure Secrets][securesecrets]
+* [Secret BSC Bridge Tutorial](https://medium.com/@darrenvchiu/secret-bsc-bridge-tutorial-420ddaf46075) - By Darren Chiu
 * More tutorials available on the Secret Network [Blog](https://scrt.network/blog/)
 
 ### Video Tutorials
