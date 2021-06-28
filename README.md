@@ -117,6 +117,7 @@ Guides about using the Secret Network
 
 * [Secure Secrets Tutorials](https://securesecrets-org.medium.com/secure-secrets-tutorials-meta-thread-df51b84fa35) -
     Guides on using products in the ecosystem by validator [Secure Secrets][securesecrets]
+* [Altcoin Buzz Tutorials](collections/altcoinbuzz-guides.md) - Guides by [Altcoin Buzz][acb]
 * [Secret BSC Bridge Tutorial](https://medium.com/@darrenvchiu/secret-bsc-bridge-tutorial-420ddaf46075) - By Darren Chiu
 * More tutorials available on the Secret Network [Blog](https://scrt.network/blog/)
 
@@ -158,6 +159,7 @@ Examples of reference Secret Contract implementations
 * [Secret Dice](https://github.com/enigmampc/SecretDice) - Example of on-chain randomness based on encrypted inputs and state + video tutorial
 
 <!-- contributor links -->
+[acb]: <https://altcoinbuzz.io/>
 [btn.group]: <https://www.btn.group>
 [chainapsis]: <https://chainapsis.com/>
 [chainofsecrets]: <https://chainofsecrets.org/>
