@@ -155,6 +155,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Secret DataHub](https://figment.io/datahub/secret-network/) by [Figment][figment] - Quickly set up a Secret Node on mainnet or testnet for your application
 * [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
+* [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
 * [Smart Contract Interface](https://www.btn.group/secret_network/smart_contract_interface) - Browser interface for smart contracts by [btn.group]
 
