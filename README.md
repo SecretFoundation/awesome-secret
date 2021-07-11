@@ -129,6 +129,13 @@ Guides about using the Secret Network
 * [Secure Secrets Youtube](https://www.youtube.com/c/SecureSecrets/videos) - By validator [Secure Secrets][securesecrets]
 * [Travis Bonfigli Youtube](https://www.youtube.com/playlist?list=PL6Tc4k6dl9kK4gmFDdMXVwTiXuS-COgV8) - Has a series on Secret Network
 
+### Podcasts
+
+* [Sharing Secrets](https://www.youtube.com/watch?v=-l-c25mhE1M&list=PLL1JDiTNCUAVq9YeGbxDtqBgaqUZajGIH) - Hosted by [Tor Bair](https://twitter.com/TorBair/)
+* [Secret Life](https://secretlifepodcast.libsyn.com/) - Hosted by [Eric Waisanen](https://twitter.com/EricWaisanen)
+    and [Paul Menexas](https://twitter.com/SecretKnight)
+    ([Twitter](https://twitter.com/slifepodcast))
+
 ## Developer Guides
 Guides about building on the Secret Network
 
