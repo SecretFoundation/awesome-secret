@@ -132,9 +132,9 @@ Guides about using the Secret Network
 ### Podcasts
 
 * [Sharing Secrets](https://www.youtube.com/watch?v=-l-c25mhE1M&list=PLL1JDiTNCUAVq9YeGbxDtqBgaqUZajGIH) - Hosted by [Tor Bair](https://twitter.com/TorBair/)
-* [Secret Life](https://secretlifepodcast.libsyn.com/) - Hosted by [Eric Waisanen](https://twitter.com/EricWaisanen)
+* [Secret Code](https://secretcodepodcast.libsyn.com/) - Hosted by [Eric Waisanen](https://twitter.com/EricWaisanen)
     and [Paul Menexas](https://twitter.com/SecretKnight)
-    ([Twitter](https://twitter.com/slifepodcast))
+    ([Twitter](https://twitter.com/secretcodepod))
 
 ## Developer Guides
 Guides about building on the Secret Network
