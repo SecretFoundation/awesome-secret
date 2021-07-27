@@ -45,11 +45,11 @@ Large products that launched (or will launch very soon) on the Secret Network
 
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
     * Also available in [Citadel One][citadel] wallet
-* [Secret Bridges](https://bridge.scrt.network/)
-    * Turn ETH and ERC-20 tokens into SNIP-20 privacy tokens
-    * Turn BNB and BEP-20 tokens into SNIP-20 privacy tokens
-    * Integrated to [keyTango](https://app.keytango.io/invest) easy DeFi investment interface
-    * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link][yflink]
+* [Secret Bridges](https://bridge.scrt.network/) - Turn assets from other chains into SNIP-20 privacy tokens
+    * Support for ETH and ERC-20 tokens
+        * Integrated to [keyTango](https://app.keytango.io/invest) easy DeFi investment interface
+        * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link][yflink]
+    * Support for BNB and BEP-20 tokens
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
