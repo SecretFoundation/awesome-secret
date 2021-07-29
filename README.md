@@ -53,6 +53,7 @@ Large products that launched (or will launch very soon) on the Secret Network
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
+* [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
 * :soon: [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 
 ## Games
