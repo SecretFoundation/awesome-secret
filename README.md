@@ -141,7 +141,9 @@ Guides about using the Secret Network
 ## Developer Guides
 Guides about building on the Secret Network
 
-* [Official Tutorials](https://build.scrt.network/dev/tutorials.html) - Official Tutorials written by the community
+* [Official Guides](https://build.scrt.network/dev/developers.html) - Official Guides written by the community
+    * [Quickstart](https://build.scrt.network/dev/quickstart.html) - Set up your environment and start writing contracts as fast as possible
+    * [Tutorials](https://build.scrt.network/dev/tutorials.html) - More specific tutorials for different use cases
 * [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment][figment]
 * [Creating my first secret contract](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
     Tutorial by DarwinZero
@@ -157,6 +159,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Secret DataHub](https://figment.io/datahub/secret-network/) by [Figment][figment] - Quickly set up a Secret Node on mainnet or testnet for your application
 * [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
+    ([examples](https://github.com/enigmampc/SecretJS-Templates))
 * [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
 * [Smart Contract Interface](https://www.btn.group/secret_network/smart_contract_interface) - Browser interface for smart contracts by [btn.group]
