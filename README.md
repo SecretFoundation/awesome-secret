@@ -51,6 +51,7 @@ Large products that launched (or will launch very soon) on the Secret Network
         * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link][yflink]
     * Support for BNB and BEP-20 tokens
     * Also supported in [Citadel One][citadel] wallet
+* [Secret Monero Bridge](https://ipfs.io/ipfs/QmNRrLDhKGZCSXAZcPU1cBTaLouhWnTi5kfWUzJB4nJbzA) - Turn your XMR into the SNIP-20 sXMR
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
 * [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
