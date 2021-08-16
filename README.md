@@ -71,6 +71,7 @@ Block Explorers and visualization tools
 * [Secretnodes](https://secretnodes.com) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
 * [Secret Contracts](http://secret-contracts.com/) - Contract code verifier and explorer by [3Dgiro][3dgiro]
 * [Secret Analytics](https://secretanalytics.xyz/) - Analytics data collected about the Network, Bridges, and SecretSwap
+* [SmartStake Secret Analytics](https://secret.smartstake.io/) - Validator stats by [SmartStake]
 * [Xiphiar](https://scrthost.xiphiar.com/) - Tools by Xiphiar for better analysis of your SecretSwap LP tokens
 * [Address alias](https://btn.group/secret_network/address_alias) - Create and search wallet aliases, by [btn.group]
 * ~~[Cashmaney Explorer](https://explorer.cashmaney.com)~~  (expired) - One of the first explorers, run by core-dev Cashmaney
@@ -87,6 +88,7 @@ Block Explorers and visualization tools
     By validator [Secure Secrets][securesecrets]
 * [For stakers](https://stakeordie.com/rewards-calculator) - By Validator [Stake or Die][stakeordie]
 * [For stakers](https://www.stakingrewards.com/earn/secret-network) - By [Staking Rewards](https://www.stakingrewards.com)
+* [For stakers](https://secret.smartstake.io/calc) - By [SmartStake]
 
 ## Wallets
 Great and popular wallets for managing your Secret Address
@@ -183,6 +185,7 @@ Examples of reference Secret Contract implementations
 [secretnodes]: <https://secretnodes.org>
 [securesecrets]: <https://www.securesecrets.org>
 [sg-1]: <https://sg-1.online/>
+[SmartStake]: <https://smartstake.io/>
 [stakeordie]: <https://stakeordie.com/>
 [whispernode]: <https://www.whispernode.com/>
 [yflink]: <https://yflink.io/>
