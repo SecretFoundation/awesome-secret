@@ -43,8 +43,7 @@ Community activity
 ## Products
 Large products that launched (or will launch very soon) on the Secret Network
 
-* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
-    * Also available in [Citadel One][citadel] wallet
+### bridges
 * [Secret Bridges](https://bridge.scrt.network/) - Turn assets from other chains into SNIP-20 privacy tokens
     * Support for ETH and ERC-20 tokens
         * Integrated to [keyTango](https://app.keytango.io/invest) easy DeFi investment interface
@@ -52,10 +51,16 @@ Large products that launched (or will launch very soon) on the Secret Network
     * Support for BNB and BEP-20 tokens
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Monero Bridge](https://ipfs.io/ipfs/QmNRrLDhKGZCSXAZcPU1cBTaLouhWnTi5kfWUzJB4nJbzA) - Turn your XMR into the SNIP-20 sXMR
+
+### DeFi
+* [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
+    * Also available in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
-* [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
 * :soon: [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
+
+### Other
+* [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
 
 ## Games
 Cool games built on the network
