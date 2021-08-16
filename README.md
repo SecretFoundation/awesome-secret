@@ -74,13 +74,13 @@ Block Explorers and visualization tools
 * [SmartStake Secret Analytics](https://secret.smartstake.io/) - Validator stats by [SmartStake]
 * [Xiphiar](https://scrthost.xiphiar.com/) - Tools by Xiphiar for better analysis of your SecretSwap LP tokens
 * [Address alias](https://btn.group/secret_network/address_alias) - Create and search wallet aliases, by [btn.group]
-* ~~[Cashmaney Explorer](https://explorer.cashmaney.com)~~  (expired) - One of the first explorers, run by core-dev Cashmaney
+* ~~[Cashmaney Explorer](https://explorer.cashmaney.com)~~ (retired) - One of the first explorers, run by core-dev Cashmaney
 
 ### Testnet
 `holodeck-2` - Maintained by validator [Chain of Secrets][chainofsecrets]
 * [Faucet](https://faucet.secrettestnet.io/) - Run by validator [Chain of Secrets][chainofsecrets]
 * [Secretnodes](https://secretnodes.com/secret/chains/holodeck-2) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
-* ~~[SecretTestnet](https://explorer.secrettestnet.io/)~~ (expired) - Explorer run by validator [Chain of Secrets][chainofsecrets]
+* ~~[SecretTestnet](https://explorer.secrettestnet.io/)~~ (retired) - Explorer run by validator [Chain of Secrets][chainofsecrets]
 
 ### Staking Calculators
 * [For stakers](https://www.securesecrets.org/stakingcalculator) · 
