@@ -159,6 +159,7 @@ Guides about building on the Secret Network
     Tutorial by DarwinZero
 * [How to build a Keplr Staking Web App](https://securesecrets-org.medium.com/secret-network-developer-tutorial-how-to-build-a-keplr-staking-app-49dfeb25abe4) -
     Tutorial by validator [Secure Secrets][securesecrets]
+* [Band oracle integration docs](https://hackmd.io/@tansawit/secret-network-developer-doc) - by [Band Protocol](https://bandprotocol.com/) ([Announcement](https://scrt.network/blog/band-protocol-live-on-mainnet))
 
 ## Developer Tools
 Tools for interacting with the secret network and for writing Secret Contracts
