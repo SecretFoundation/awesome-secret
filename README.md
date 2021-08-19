@@ -126,6 +126,7 @@ Guides about using the Secret Network
 
 ### Text Tutorials
 
+* [Secret Network Medium](https://medium.com/@secretnetwork) - Guides for products in the ecosystem,
 * [Secure Secrets Tutorials](https://securesecrets-org.medium.com/secure-secrets-tutorials-meta-thread-df51b84fa35) -
     Guides on using products in the ecosystem by validator [Secure Secrets][securesecrets]
 * [Altcoin Buzz Tutorials](collections/altcoinbuzz-guides.md) - Guides by [Altcoin Buzz][acb]
