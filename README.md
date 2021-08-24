@@ -60,6 +60,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 * :soon: [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 
 ### Other
+* :soon: [Altermail](https://altermail.co/) - A decentralized messaging service dApp
 * [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
 
 ## Games
