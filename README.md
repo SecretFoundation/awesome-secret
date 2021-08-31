@@ -88,6 +88,10 @@ Block Explorers and visualization tools
 * [Secretnodes](https://secretnodes.com/secret/chains/holodeck-2) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
 * ~~[SecretTestnet](https://explorer.secrettestnet.io/)~~ (retired) - Explorer run by validator [Chain of Secrets][chainofsecrets]
 
+### Bots
+* [Gas Attendant](https://t.me/SCRT_GasAttendant_bot) - Time your transactions with notifications about blocks with low or high gas fees, by secretSauce :honey_pot:
+* [Node Hunter](https://t.me/SCRT_Node_Hunter_bot) - Get notified if a validator has been offline for a long time, by secretSauce :honey_pot:
+
 ### Staking Calculators
 * [For stakers](https://www.securesecrets.org/stakingcalculator) · 
     [For validators](https://www.securesecrets.org/validatorcalculator) -
