@@ -89,7 +89,7 @@ Block Explorers and visualization tools
 * ~~[SecretTestnet](https://explorer.secrettestnet.io/)~~ (retired) - Explorer run by validator [Chain of Secrets][chainofsecrets]
 
 ### Bots
-* [Gas Attendant](https://t.me/SCRT_GasAttendant_bot) - Time your transactions with notifications about blocks with low or high gas fees, by secretSauce :honey_pot:
+* [Gas Attendant](https://t.me/SCRT_GasAttendant_bot) - Time your transactions with notifications for blocks with low or high gas fees, by secretSauce :honey_pot:
 * [Node Hunter](https://t.me/SCRT_Node_Hunter_bot) - Get notified if a validator has been offline for a long time, by secretSauce :honey_pot:
 
 ### Staking Calculators
