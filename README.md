@@ -58,6 +58,7 @@ Large products that launched (or will launch very soon) on the Secret Network
     * Also available in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
+* [Duplex Finance](https://duplex.finance/) - Two-fold cross-chain strategy for gaining yield on stablecoins
 * :soon: [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 
 ### Other
