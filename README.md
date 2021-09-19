@@ -23,6 +23,7 @@ Official Secret Network resources
 * [Main website!](https://scrt.network/) - Official Secret Network website
 * [Blog](https://scrt.network/blog/) - Official Secret Network blog
 * [Wiki](https://build.scrt.network/) - Official Secret Network wiki
+* [Node runner docs](https://docs.scrt.network/) - Up to date docs on running Secret nodes
 * [Old Wiki](https://learn.scrt.network/) - Older Wiki with some old resources
 * Graypaper by Carter Woetzel - [Web](https://scrt.network/graypaper) · [PDF](https://www.securesecrets.org/papers)
 * [Specifications](https://github.com/SecretFoundation/SNIPs/) - SNIPs - Secret Network Improvement Proposals
