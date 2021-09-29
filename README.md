@@ -181,7 +181,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
     ([examples](https://github.com/enigmampc/SecretJS-Templates))
 * [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
 * [Polar](https://www.npmjs.com/package/secret-polar) - CLI for easier development of secret contracts
-    ([Docs](https://arufaresearch.medium.com/polar-introduction-milestone-1-overview-161f37af22cc) (early),
+    ([Docs](https://docs.arufaresearch.com/),
     [Codebase](https://github.com/arufa-research/polar))
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
 * [Smart Contract Interface](https://www.btn.group/secret_network/smart_contract_interface) - Browser interface for smart contracts by [btn.group]
