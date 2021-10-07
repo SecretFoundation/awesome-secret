@@ -61,6 +61,11 @@ Large products that launched (or will launch very soon) on the Secret Network
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
 * [Duplex Finance](https://duplex.finance/) - Two-fold cross-chain strategy for gaining yield on stablecoins
 * [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
+* :soon: [Shade Protocol](https://shadeprotocol.io/) - an array of connected privacy-preserving DeFi applications
+    * **Shade** - Governance token
+    * **Silk** - Algorithmic stablecoin with transactional privacy by default
+    * **Synthetics** - Algorithmic synthetic assets with transactional privacy by default
+    * Many more will be revealed :shushing_face:
 
 ### Other
 * :soon: [Stashh](https://stashh.co/) - Marketplace for Secret NFTs
