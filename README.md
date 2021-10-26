@@ -32,7 +32,7 @@ Community activity
 
 * Community channels: [Forum](https://forum.scrt.network/) · [Discord](https://chat.scrt.network) · [Telegram](https://t.me/scrtCommunity) ·
     [Reddit](https://www.reddit.com/r/SecretNetwork/) · [Twitter](https://twitter.com/SecretNetwork)
-* [Secret Agent Headquarters](https://agents.scrt.network/) - Home for community member collaboration
+* [Secret Agent Headquarters](https://scrt.network/agents) - Home for community member collaboration
 * [Grant Applications](https://github.com/SecretFoundation/Grants/issues) -
     [announcement](https://scrt.network/blog/announcing-secret-network-grant-program) ·
     [ideas](https://scrt.network/grant-application-ideas) ·
