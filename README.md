@@ -122,7 +122,7 @@ Great and popular wallets for managing your Secret Address
     * First wallet with full support of SNIP-20 Secret Tokens
     * **Support for usage from any Secret dApp**
     * Convert between SCRT and sSCRT ([in web app](https://wallet.keplr.app/#/secret/secret-secret))
-    * Web app + Browser extension + :soon: Mobile wallet
+    * Web app + Browser extension + Mobile wallet
 * [Citadel One][citadel]
     * Great UI and assortment of supported networks
     * Second wallet with full support of SNIP-20 Secret Tokens
