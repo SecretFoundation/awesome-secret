@@ -67,8 +67,12 @@ Large products that launched (or will launch very soon) on the Secret Network
     * **Synthetics** - Algorithmic synthetic assets with transactional privacy by default
     * Many more will be revealed :shushing_face:
 
-### Other
+### NFT
 * :soon: [Stashh](https://stashh.co/) - Marketplace for Secret NFTs
+* [Anons](https://www.anons.army/) - First NFT project to launch on the network. Only 580 anons.
+    [Twitter](https://twitter.com/AnonsNFT) · [Contract](https://secretnodes.com/secret/chains/secret-3/contracts/secret1xx4fp7qgkyxdk9elrzd8v5p7gj28lvxprwl9lw)
+
+### Other
 * [Fardels](https://fardels.network/) (beta) - An decentralized social network for selling items of low value
 * [Altermail](https://altermail.co/) - A decentralized messaging service dApp
 * [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
