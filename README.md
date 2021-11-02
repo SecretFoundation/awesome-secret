@@ -71,6 +71,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 * :soon: [Stashh](https://stashh.co/) - Marketplace for Secret NFTs
 * [Anons](https://www.anons.army/) - First NFT project to launch on the network. Only 580 anons.
     [Twitter](https://twitter.com/AnonsNFT) · [Contract](https://secretnodes.com/secret/chains/secret-3/contracts/secret1xx4fp7qgkyxdk9elrzd8v5p7gj28lvxprwl9lw)
+* [Tarantino NFTs](https://tarantinonfts.com/) - Seven uncut scenes from the original Pulp Fiction manuscript
 
 ### Other
 * [Fardels](https://fardels.network/) (beta) - An decentralized social network for selling items of low value
