@@ -163,7 +163,7 @@ Guides about using the Secret Network
 * [Whisper Node Youtube](https://www.youtube.com/channel/UChAbgpsMHT3ooZfWmjjUtKg/videos) - By validator [Whisper Node][whispernode]
 * [Secure Secrets Youtube](https://www.youtube.com/c/SecureSecrets/videos) - By validator [Secure Secrets][securesecrets]
 * [Travis Bonfigli Youtube](https://www.youtube.com/playlist?list=PL6Tc4k6dl9kK4gmFDdMXVwTiXuS-COgV8) - Has a series on Secret Network
-* [Secret Code Podcast YouTube - Tutorial Playlist](https://www.youtube.com/watch?v=C0zRTaV8XgI&list=PLxrw7YCKLEXvPNUJ1SFoHQUUQa4_Uwwdg) - By validator [Secret Code Podcast Node]
+* [Secret Code Podcast YouTube - Tutorial Playlist](https://www.youtube.com/watch?v=C0zRTaV8XgI&list=PLxrw7YCKLEXvPNUJ1SFoHQUUQa4_Uwwdg) - By validator [Secret Code Podcast Node](secretcodepodcast.com)
 
 ### Podcasts
 
