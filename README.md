@@ -81,10 +81,10 @@ Large products that launched (or will launch very soon) on the Secret Network
 ## Games
 Cool games built on the network
 
+* [prisnr.games](https://prisnr.games/) - Head-to-head strategy game on testnet invoking the prisoner's dilemma. Implements private entropy pool for random numbers and secretNFTs as rewards and playable in-game power-ups. ([Contract codebase](https://github.com/prisnr-games/secret-dapp/tree/master/contracts), [Front-end webapp code](https://github.com/prisnr-games/webapp))
 * [Secret Heroes](https://secrethero.es/) - Deck building, auto-battler game based on collectible secretNFTs, built in Unity
 * [Secret Holdem](https://holdem.enigma.co/) - Texas Holdem game on testnet ([Codebase](https://github.com/enigmampc/SecretHoldEm/))
 * [Rock Paper Scissors](https://testrps.lindlof.io/) - Rock paper scissors game without commit-reveal on testnet ([Codebase](https://github.com/lindlof/secret_rock_paper_scissors))
-* [prisnr.games](https://prisnr.games/) - Head-to-head strategy game on testnet invoking the prisoner's dilemma. Implements private entropy pool for random numbers and secretNFTs as rewards and playable in-game power-ups. ([Contract codebase](https://github.com/prisnr-games/secret-dapp/tree/master/contracts), [Front-end webapp code](https://github.com/prisnr-games/webapp))
 
 ## Explorers
 Block Explorers and visualization tools
