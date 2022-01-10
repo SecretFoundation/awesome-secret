@@ -93,6 +93,7 @@ Block Explorers and visualization tools
 
 ### Mainnet
 * [Secretnodes](https://secretnodes.com) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
+* [Mintscan](https://www.mintscan.io/cosmos) - Popular and highly featured explorer for many chains in the Cosmos ecosystem
 * [Secret Contracts](http://secret-contracts.com/) - Contract code verifier and explorer by [3Dgiro][3dgiro]
 * [Secret Analytics](https://secretanalytics.xyz/) - Analytics data collected about the Network, Bridges, and SecretSwap
 * [SmartStake Secret Analytics](https://secret.smartstake.io/) - Validator stats by [SmartStake]
