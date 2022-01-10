@@ -102,9 +102,9 @@ Block Explorers and visualization tools
 * ~~[Cashmaney Explorer](https://explorer.cashmaney.com)~~ (retired) - One of the first explorers, run by core-dev Cashmaney
 
 ### Testnet
-`pulsar-1`, [Docs](https://github.com/scrtlabs/testnet/blob/master/pulsar-1/details.md) - Maintained by the [Stashh](https://stashh.io/) team
+`pulsar-2`, [Docs](https://github.com/scrtlabs/testnet/blob/master/pulsar-2/details.md) - Maintained by the [Stashh](https://stashh.io/) team
 * [Faucet](https://faucet.secrettestnet.io/) - Run by validator [Chain of Secrets][chainofsecrets]
-* [Secretnodes](https://secretnodes.com/secret/chains/pulsar-1) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
+* [Secretnodes](https://secretnodes.com/secret/chains/pulsar-2) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
 
 `holodeck-2`, [Docs](https://github.com/scrtlabs/testnet/blob/master/holodeck-2/details.md) - Maintained by validator [Chain of Secrets][chainofsecrets]
 * ~~[Faucet](https://faucet.secrettestnet.io/)~~ - Run by validator [Chain of Secrets][chainofsecrets]
