@@ -22,9 +22,7 @@ Official Secret Network resources
 
 * [Main website!](https://scrt.network/) - Official Secret Network website
 * [Blog](https://scrt.network/blog/) - Official Secret Network blog
-* [Wiki](https://build.scrt.network/) - Official Secret Network wiki
-* [Node runner docs](https://docs.scrt.network/) - Up to date docs on running Secret nodes
-* [Old Wiki](https://learn.scrt.network/) - Older Wiki with some old resources
+* [Wiki](https://docs.scrt.network/) - Official Secret Network wiki
 * Graypaper by Carter Woetzel - [Web](https://scrt.network/graypaper) · [PDF](https://www.securesecrets.org/papers)
 * [Specifications](https://github.com/SecretFoundation/SNIPs/) - SNIPs - Secret Network Improvement Proposals
 
@@ -147,7 +145,7 @@ Great and popular wallets for managing your Secret Address
     * Send SCRT to other Twitter users with a tweet
     * Send SCRT to other Telegram users with a command
     * Buy and sell SCRT from/to other users of Sputnik
-* [Ledger](https://build.scrt.network/ledger-nano-s.html) - Guide to using Ledger hardware wallet with Secret Network 
+* [Ledger](https://docs.scrt.network/guides/ledger-nano.html) - Guide to using Ledger hardware wallet with Secret Network 
 
 ## User Guides
 Guides about using the Secret Network
@@ -178,10 +176,10 @@ Guides about using the Secret Network
 ## Developer Guides
 Guides about building on the Secret Network
 
-* [Official Guides](https://build.scrt.network/dev/developers.html) - Official Guides written by the community
-    * [Quickstart](https://build.scrt.network/dev/quickstart.html) - Set up your environment and start writing contracts as fast as possible
-    * [Tutorials](https://build.scrt.network/dev/tutorials.html) - More specific tutorials for different use cases
-* [Figment Learn](https://learn.figment.io/network-documentation/secret) - Guides and Tutorials by [Figment][figment]
+* [Official Guides](https://docs.scrt.network/dev/developers.html) - Official Guides written by the community
+    * [Quickstart](https://docs.scrt.network/dev/quickstart.html) - Set up your environment and start writing contracts as fast as possible
+    * [Tutorials](https://docs.scrt.network/dev/tutorials.html) - More specific tutorials for different use cases
+* [Figment Learn](https://learn.figment.io/protocols/secret) - Guides and Tutorials by [Figment][figment]
 * [Creating my first secret contract](https://darwinzero.medium.com/creating-my-first-secret-contract-on-secret-network-scrt-db0d04597051) -
     Tutorial by DarwinZero
 * [Developing your first secret contract](https://github.com/darwinzer0/secret-contract-tutorials/tree/main/tutorial1) -
