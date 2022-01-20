@@ -64,6 +64,7 @@ Large products that launched (or will launch very soon) on the Secret Network
     * **Silk** - Algorithmic stablecoin with transactional privacy by default
     * **Synthetics** - Algorithmic synthetic assets with transactional privacy by default
     * Many more will be revealed :shushing_face:
+* :soon: [StakeEasy](https://stakeeasy.finance/) - Privacy preserving liquid staking solution for secret network.
 
 ### NFT
 [Stashh](https://stashh.io/) - Marketplace for Secret NFTs
@@ -198,7 +199,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
     ([examples](https://github.com/enigmampc/SecretJS-Templates))
 * [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
-* [Polar](https://www.npmjs.com/package/secret-polar) - CLI for easier development of secret contracts
+* [Polar](https://www.npmjs.com/package/secret-polar) - Polar is a development framework for building secret contracts. It facilitates features such as initiating project repo from [contract templates](https://github.com/arufa-research/polar-templates), easy compilation of contracts, deployment, Interacting with contracts using schema and contract testing framework.
     ([Docs](https://docs.arufaresearch.com/),
     [Codebase](https://github.com/arufa-research/polar))
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
