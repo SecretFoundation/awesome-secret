@@ -199,7 +199,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
     ([examples](https://github.com/enigmampc/SecretJS-Templates))
 * [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
-* [Polar](https://www.npmjs.com/package/secret-polar) - Polar is a framework for building secret contracts. It features facilities for [project templates](https://github.com/arufa-research/polar-templates), compilation, deployment, javascript interaction (based on schemas), and testing
+* [Polar](https://www.npmjs.com/package/secret-polar) - Polar is a framework for building secret contracts. It features facilitates for [project templates](https://github.com/arufa-research/polar-templates), compilation, deployment, javascript interaction (based on schemas), and testing
     ([Docs](https://docs.arufaresearch.com/),
     [Codebase](https://github.com/arufa-research/polar))
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
