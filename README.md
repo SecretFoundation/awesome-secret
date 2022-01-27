@@ -78,6 +78,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 * [Fardels](https://fardels.network/) (beta) - An decentralized social network for selling items of low value
 * [Altermail](https://altermail.co/) - A decentralized messaging service dApp
 * [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
+* :soon: [JACKAL](https://jackaldao.com/) - A completely decentralized hot storage on-chain that uses the Amazon S3 Standard. 
 
 ## Games
 Cool games built on the network
