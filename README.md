@@ -58,6 +58,7 @@ Large products that launched (or will launch very soon) on the Secret Network
     * Also available in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
 * [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
+* [Button Swap](https://www.btn.group/secret_network/button_swap) - AMM/DEX aggregator by [btn.group]
 * :soon: [Shade Protocol](https://shadeprotocol.io/) - an array of connected privacy-preserving DeFi applications
     * **Shade** - Governance token
     * **Silk** - Algorithmic stablecoin with transactional privacy by default
