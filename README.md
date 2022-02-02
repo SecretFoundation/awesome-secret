@@ -57,8 +57,6 @@ Large products that launched (or will launch very soon) on the Secret Network
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
     * Also available in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
-* [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
-* [Duplex Finance](https://duplex.finance/) - Two-fold cross-chain strategy for gaining yield on stablecoins
 * [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 * :soon: [Shade Protocol](https://shadeprotocol.io/) - an array of connected privacy-preserving DeFi applications
     * **Shade** - Governance token
@@ -66,6 +64,8 @@ Large products that launched (or will launch very soon) on the Secret Network
     * **Synthetics** - Algorithmic synthetic assets with transactional privacy by default
     * Many more will be revealed :shushing_face:
 * :soon: [StakeEasy](https://stakeeasy.finance/) - Privacy preserving liquid staking solution for Secret Network.
+* [Duplex Finance](https://duplex.finance/) - Two-fold cross-chain strategy for gaining yield on stablecoins
+* [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
 
 ### NFT
 [Stashh](https://stashh.io/) - Marketplace for Secret NFTs
