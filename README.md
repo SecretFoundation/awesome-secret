@@ -51,6 +51,7 @@ Large products that launched (or will launch very soon) on the Secret Network
     * Support for BNB and BEP-20 tokens
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Monero Bridge](https://ipfs.io/ipfs/QmNRrLDhKGZCSXAZcPU1cBTaLouhWnTi5kfWUzJB4nJbzA) - Turn your XMR into the SNIP-20 sXMR
+* [IBC bridges](https://wrap.scrt.network/) - Transfer tokens across IBC networks and wrap them in SNIP-20 tokens
 * :soon: [Shinobi Protocol](https://sbtc.ninja) - Trustless bridge to Bitcoin. Turn your BTC into the SNIP-20 sBTC
 
 ### DeFi
