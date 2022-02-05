@@ -47,7 +47,6 @@ Large products that launched (or will launch very soon) on the Secret Network
 * [Secret Bridges](https://bridge.scrt.network/) - Turn assets from other chains into SNIP-20 privacy tokens
     * Support for ETH and ERC-20 tokens
         * Integrated to [keyTango](https://app.keytango.io/invest) easy DeFi investment interface
-        * [Alternate UI](https://linkswap.app/#/scrt) by [YF Link][yflink]
     * Support for BNB and BEP-20 tokens
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Monero Bridge](https://ipfs.io/ipfs/QmNRrLDhKGZCSXAZcPU1cBTaLouhWnTi5kfWUzJB4nJbzA) - Turn your XMR into the SNIP-20 sXMR
