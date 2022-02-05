@@ -57,7 +57,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 ### DeFi
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
     * Also available in [Citadel One][citadel] wallet
-* [Secret Swap](https://www.secretswap.io/) - Front running resistant AMM
+* [Secret Swap](https://www.secretswap.net/) - Front running resistant AMM
 * [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
 * [Button Swap](https://www.btn.group/secret_network/button_swap) - AMM/DEX aggregator by [btn.group]
 * :soon: [Shade Protocol](https://shadeprotocol.io/) - an array of connected privacy-preserving DeFi applications
