@@ -52,13 +52,14 @@ Large products that launched (or will launch very soon) on the Secret Network
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Monero Bridge](https://ipfs.io/ipfs/QmNRrLDhKGZCSXAZcPU1cBTaLouhWnTi5kfWUzJB4nJbzA) - Turn your XMR into the SNIP-20 sXMR
 * [IBC bridges](https://wrap.scrt.network/) - Transfer tokens across IBC networks and wrap them in SNIP-20 tokens
+    * Alternate UI for [IBC bridging](https://app.sienna.network/wrap) and [SNIP-20 wrapping](https://app.sienna.network/wrap/ibc) of IBC tokens, by [Sienna]
 * :soon: [Shinobi Protocol](https://sbtc.ninja) - Trustless bridge to Bitcoin. Turn your BTC into the SNIP-20 sBTC
 
 ### DeFi
 * [secretSCRT Converter](https://wallet.keplr.app/#/secret/secret-secret) - Convert between SCRT and sSCRT, by [Chainapsis][chainapsis]
     * Also available in [Citadel One][citadel] wallet
 * [Secret Swap](https://www.secretswap.net/) - Front running resistant AMM
-* [Sienna Network](https://sienna.network/) - Front running resistant AMM, and more products in the future
+* [Sienna Network][sienna] - Front running resistant AMM, and more products in the future
 * [Button Swap](https://www.btn.group/secret_network/button_swap) - AMM/DEX aggregator by [btn.group]
 * :soon: [Shade Protocol](https://shadeprotocol.io/) - an array of connected privacy-preserving DeFi applications
     * **Shade** - Governance token
@@ -228,6 +229,7 @@ Examples of reference Secret Contract implementations
 [secretnodes]: <https://secretnodes.org>
 [securesecrets]: <https://www.securesecrets.org>
 [sg-1]: <https://sg-1.online/>
+[sienna]: <https://sienna.network/>
 [SmartStake]: <https://smartstake.io/>
 [stakeordie]: <https://stakeordie.com/>
 [whispernode]: <https://www.whispernode.com/>
