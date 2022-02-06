@@ -51,7 +51,7 @@ Large products that launched (or will launch very soon) on the Secret Network
     * Also supported in [Citadel One][citadel] wallet
 * [Secret Monero Bridge](https://ipfs.io/ipfs/QmNRrLDhKGZCSXAZcPU1cBTaLouhWnTi5kfWUzJB4nJbzA) - Turn your XMR into the SNIP-20 sXMR
 * [IBC bridges](https://wrap.scrt.network/) - Transfer tokens across IBC networks and wrap them in SNIP-20 tokens
-    * Alternate UI for [IBC bridging](https://app.sienna.network/wrap) and [SNIP-20 wrapping](https://app.sienna.network/wrap/ibc) of IBC tokens, by [Sienna]
+    * Alternate UI for [IBC bridging](https://app.sienna.network/wrap/ibc) and [SNIP-20 wrapping](https://app.sienna.network/wrap) of IBC tokens, by [Sienna]
 * :soon: [Shinobi Protocol](https://sbtc.ninja) - Trustless bridge to Bitcoin. Turn your BTC into the SNIP-20 sBTC
 
 ### DeFi
