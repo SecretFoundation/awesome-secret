@@ -200,6 +200,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Local Node](https://hub.docker.com/r/enigmampc/secret-network-sw-dev) - Start a docker container with a standalone network
 * [Secret DataHub](https://figment.io/datahub/secret-network/) by [Figment][figment] - Quickly set up a Secret Node on mainnet or testnet for your application
 * [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
+* [Secret Py](https://pypi.org/project/secret-sdk/) - Python library for interacting with the network
 * [SecretJS](https://www.npmjs.com/package/secretjs) - JavaScript library for interacting with the network
     ([examples](https://github.com/enigmampc/SecretJS-Templates))
 * [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
