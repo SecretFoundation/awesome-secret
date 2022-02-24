@@ -209,6 +209,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
     [Codebase](https://github.com/arufa-research/polar))
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
 * [Smart Contract Interface](https://www.btn.group/secret_network/smart_contract_interface) - Browser interface for smart contracts by [btn.group]
+* [Fadroma](https://github.com/hackbg/fadroma) - Industrial strength components and workflows for smart contract development in Rust by [hack.bg]
 
 ## Reference Contracts
 Examples of reference Secret Contract implementations
@@ -235,3 +236,4 @@ Examples of reference Secret Contract implementations
 [whispernode]: <https://www.whispernode.com/>
 [yflink]: <https://yflink.io/>
 [3dgiro]: <https://3dgiro.com/>
+[hack.bg]: <https://hack.bg/>
