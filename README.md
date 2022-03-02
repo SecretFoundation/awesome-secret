@@ -66,6 +66,7 @@ Large products that launched (or will launch very soon) on the Secret Network
     * **Synthetics** - Algorithmic synthetic assets with transactional privacy by default
     * Many more will be revealed :shushing_face:
 * :soon: [StakeEasy](https://stakeeasy.finance/) - Privacy preserving liquid staking solution for Secret Network.
+* [Secret Invoice](https://secretinvoice.com/) - Request payments via invoices, and pay for ivoices sent to you
 * [Duplex Finance](https://duplex.finance/) - Two-fold cross-chain strategy for gaining yield on stablecoins
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
 
