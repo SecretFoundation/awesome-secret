@@ -145,6 +145,8 @@ Great and popular wallets for managing your Secret Address
     * Convert between SCRT and sSCRT
     * Validator on the network
     * Web app + Mobile wallet
+* :soon: [✦ STARSHELL ✦](https://starshell.net/)
+    * A privacy-preserving, free and open-source Web3 wallet built for the Secret Network and Cosmos ecosystem.
 * [Secret Tipbot](https://twitter.com/secret_tipbot) by validator [SG-1][sg-1] ([Guide](https://medium.com/@Cosmostipbot/the-secret-tipbot-is-now-live-d2bd7ef1be94))
     * Funded by the community ([Proposal](https://secretnodes.com/secret/chains/secret-2/governance/proposals/26))
     * Send SCRT to other Twitter users with a tweet
