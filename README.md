@@ -230,6 +230,7 @@ Examples of reference Secret Contract implementations
 [chainofsecrets]: <https://chainofsecrets.org/>
 [citadel]: <https://citadel.one>
 [figment]: <https://figment.io/>
+[hack.bg]: <https://hack.bg/>
 [secretnodes]: <https://secretnodes.org>
 [securesecrets]: <https://www.securesecrets.org>
 [sg-1]: <https://sg-1.online/>
@@ -239,4 +240,3 @@ Examples of reference Secret Contract implementations
 [whispernode]: <https://www.whispernode.com/>
 [yflink]: <https://yflink.io/>
 [3dgiro]: <https://3dgiro.com/>
-[hack.bg]: <https://hack.bg/>
