@@ -80,7 +80,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 ### Other
 * [Fardels](https://fardels.network/) (beta) - An decentralized social network for selling items of low value
 * [Altermail](https://altermail.co/) - A decentralized messaging service dApp
-* [Whisprs](https://whisprs.co/) - Decentralized, cross-chain, private Messaging, by core-dev Cashmaney
+* [Whisprs](https://whisprs.co/) - Decentralized, cross-chain, private Messaging, by core-dev [Cashmaney]
 * [Secret Garden](https://scrtgarden.com/) - Secret Token and Secret NFT generator, manager, and explorer by [Secret Garden](https://github.com/ScrtGarden)
 * :soon: [JACKAL](https://jackaldao.com/) - A completely decentralized hot storage on-chain that uses the Amazon S3 Standard. 
 
@@ -105,7 +105,7 @@ Block Explorers and visualization tools
 * [SmartStake Secret Analytics](https://secret.smartstake.io/) - Validator stats by [SmartStake]
 * [Xiphiar](https://scrthost.xiphiar.com/) - Tools by Xiphiar for better analysis of your SecretSwap LP tokens
 * [Address alias](https://btn.group/secret_network/address_alias) - Create and search wallet aliases, by [btn.group]
-* ~~[Cashmaney Explorer](https://explorer.cashmaney.com)~~ (retired) - One of the first explorers, run by core-dev Cashmaney
+* ~~[Cashmaney Explorer](https://explorer.cashmaney.com)~~ (retired) - One of the first explorers, run by core-dev [Cashmaney]
 
 ### Testnet
 `pulsar-2`, [Docs](https://github.com/scrtlabs/testnet/blob/master/pulsar-2/details.md) - Maintained by the [Stashh](https://stashh.io/) team
@@ -225,6 +225,7 @@ Examples of reference Secret Contract implementations
 <!-- contributor links -->
 [acb]: <https://altcoinbuzz.io/>
 [btn.group]: <https://www.btn.group>
+[Cashmaney]: <https://twitter.com/Cashmaney3/>
 [chainapsis]: <https://chainapsis.com/>
 [chainofsecrets]: <https://chainofsecrets.org/>
 [citadel]: <https://citadel.one>
