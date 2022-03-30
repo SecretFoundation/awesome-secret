@@ -100,6 +100,7 @@ Block Explorers and visualization tools
 ### Mainnet
 * [Secretnodes](https://secretnodes.com) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
 * [Mintscan](https://www.mintscan.io/secret) - Popular and highly featured explorer for many chains in the Cosmos ecosystem
+* [Ping Explorer](https://ping.pub/secret) - Supports dozens of Cosmos chains and includes a basic web wallet, by [ping.pub]
 * [Secret Contracts](http://secret-contracts.com/) - Contract code verifier and explorer by [3Dgiro][3dgiro]
 * [Secret Analytics](https://secretanalytics.xyz/) - Analytics data collected about the Network, Bridges, and SecretSwap
 * [SmartStake Secret Analytics](https://secret.smartstake.io/) - Validator stats by [SmartStake]
@@ -233,6 +234,7 @@ Examples of reference Secret Contract implementations
 [citadel]: <https://citadel.one>
 [figment]: <https://figment.io/>
 [hack.bg]: <https://hack.bg/>
+[ping.pub]: <https://ping.pub/>
 [secretnodes]: <https://secretnodes.org>
 [securesecrets]: <https://www.securesecrets.org>
 [sg-1]: <https://sg-1.online/>
