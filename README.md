@@ -39,6 +39,7 @@ Community activity
 * [SNACs](https://forum.scrt.network/t/open-discussion-snacs-secret-network-action-campaigns/3150) -
     Secret Network Action Campaigns
 * [Secret Fellows](https://scrt.network/blog/secret-fellows-developer-program) - Developer mentorship program
+* [Community Code Repositories](https://github.com/zorostang/secret-network-community-code-repositories) - Open source repositories designed to take 1 to 5 days to complete with bounties ranging from $500 to $2,500 USD. Jump in, get involved!
 
 ## Products
 Large products that launched (or will launch very soon) on the Secret Network
@@ -88,7 +89,7 @@ Large products that launched (or will launch very soon) on the Secret Network
 Cool games built on the network
 
 * :soon: _**Orbem Wars**_ by [Domerium Labs](https://twitter.com/DomeriumLabs) ([Blog](https://medium.com/@domeriumlabs)), is a P2E tower defense game with four game modes, including single-player, multi-player, and PvP. Its combat and NFT-based economy are balanced to continuously challenge players to rethink their setups.
-* [Secret Dreamscape](https://secretdreamscape.com/) by [Secret Dreamscape](https://twitter.com/SCRTDreamscape) ([Blog](https://blog.secretdreamscape.com/posts/introducing-secret-dreamscape/)), is a social multiplayer game that's like a mashup of poker and scrabble. The cards are rich with fantastical images that take the player somewhere between a dream and reality. Players can bring their personal deck of NFT cards and craft new dreamscapes into the cards as they play. Currently on testnet 
+* [Secret Dreamscape](https://secretdreamscape.com/) by [Secret Dreamscape](https://twitter.com/SCRTDreamscape) ([Blog](https://blog.secretdreamscape.com/posts/introducing-secret-dreamscape/)), is a social multiplayer game that's like a mashup of poker and scrabble. The cards are rich with fantastical images that take the player somewhere between a dream and reality. Players can bring their personal deck of NFT cards and their played words to the cards as they play for chances to win from the community prize pool. 
 * [prisnr.games](https://prisnr.games/) - Head-to-head strategy game on testnet invoking the prisoner's dilemma. Implements private entropy pool for random numbers and secretNFTs as rewards and playable in-game power-ups. ([Contract codebase](https://github.com/prisnr-games/secret-dapp/tree/master/contracts), [Front-end webapp code](https://github.com/prisnr-games/webapp))
 * [Secret Heroes](https://secrethero.es/) - Deck building, auto-battler game based on collectible secretNFTs, built in Unity
 * [Secret Holdem](https://holdem.enigma.co/) - Texas Holdem game on testnet ([Codebase](https://github.com/enigmampc/SecretHoldEm/))
