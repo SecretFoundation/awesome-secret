@@ -61,12 +61,12 @@ Large products that launched (or will launch very soon) on the Secret Network
 * [Secret Swap](https://www.secretswap.net/) - Front running resistant AMM
 * [Sienna Network][sienna] - Front running resistant AMM, and more products in the future
 * [Button Swap](https://www.btn.group/secret_network/button_swap) - AMM/DEX aggregator by [btn.group]
-* :soon: [Shade Protocol](https://shadeprotocol.io/) - an array of connected privacy-preserving DeFi applications
+* [Shade Protocol](https://shadeprotocol.io/) - an array of connected privacy-preserving DeFi applications
     * **Shade** - Governance token
     * **Silk** - Algorithmic stablecoin with transactional privacy by default
     * **Synthetics** - Algorithmic synthetic assets with transactional privacy by default
     * Many more will be revealed :shushing_face:
-* :soon: [StakeEasy](https://stakeeasy.finance/) - Privacy preserving liquid staking solution for Secret Network.
+* [StakeEasy](https://stakeeasy.finance/) - Privacy preserving liquid staking solution for Secret Network.
 * [Secret Invoice](https://secretinvoice.com/) - Request payments via invoices, and pay for ivoices sent to you
 * [Duplex Finance](https://duplex.finance/) - Two-fold cross-chain strategy for gaining yield on stablecoins
 * [Secret Auctions](https://auctions.scrt.network/) - Sealed-bid auctions and OTC market
