@@ -216,6 +216,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Secret Toolkit](https://github.com/enigmampc/secret-toolkit) - Extra tools for use in Secret Contracts
 * [Smart Contract Interface](https://www.btn.group/secret_network/smart_contract_interface) - Browser interface for smart contracts by [btn.group]
 * [Fadroma](https://github.com/hackbg/fadroma) - Industrial strength components and workflows for smart contract development in Rust by [hack.bg]
+* [scrt-helper](https://github.com/BalloonBox-Inc/scrt-helper) - A JS helper utility to get acquainted with the SCRT network by [balloonbox.io]
 
 ## Reference Contracts
 Examples of reference Secret Contract implementations
@@ -228,6 +229,7 @@ Examples of reference Secret Contract implementations
 
 <!-- contributor links -->
 [acb]: <https://altcoinbuzz.io/>
+[balloonbox.io]: <https://www.balloonbox.io>
 [btn.group]: <https://www.btn.group>
 [Cashmaney]: <https://twitter.com/Cashmaney3/>
 [chainapsis]: <https://chainapsis.com/>
