@@ -40,6 +40,7 @@ Community activity
     Secret Network Action Campaigns
 * [Secret Fellows](https://scrt.network/blog/secret-fellows-developer-program) - Developer mentorship program
 * [Community Code Repositories](https://github.com/zorostang/secret-network-community-code-repositories) - Open source repositories designed to take 1 to 5 days to complete with bounties ranging from $500 to $2,500 USD. Jump in, get involved!
+* [Community Curated Bounty List](https://docs.google.com/document/d/1tlFdagZHAIXDeMFi4HVDIseaw3nXxk_-3WKp9hhsfFs/edit?usp=sharing) - A list of Developer projects which can be funded by the community pool as signalled in proposal #71
 
 ## Products
 Large products that launched (or will launch very soon) on the Secret Network
@@ -184,6 +185,8 @@ Guides about using the Secret Network
 * [Secret Code](https://www.secretcodepodcast.com/) - Hosted by [Eric Waisanen](https://twitter.com/EricWaisanen)
     and [Paul Menexas](https://twitter.com/SecretKnight)
     ([Twitter](https://twitter.com/secretcodepod))
+* [Agents of the Round Table](https://www.youtube.com/channel/UCLCBgCi6j3tmOM2puGyF33A) - Hosted by the[Secret agent community](https://twitter.com/Secret_AOTRT] and the [Education committee](https://twitter.com/ProfessorSCRT)
+* [House of Shade](https://www.youtube.com/channel/UCCK9tPCUf7HNFgg7P1lJd3Q)- Hosted by the [House of shade team](https://twitter.com/House_of_Shade)
 
 ## Developer Guides
 Guides about building on the Secret Network
