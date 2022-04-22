@@ -2,21 +2,40 @@
 
 
 **- A**
+
+
 *Alter:* private & secure messaging app built on on Secret Network
+
 *Airdrop:* token distribution method in which assets are transmitted to wallets to create awareness around a project
+
 A.M.M.: automated market maker, a fully automated DEX where trades are made against a pool of tokens instead of the traditional order book
+
 A.P.I: Application Programming Interface, a type of software built to access certain specifications of another software in a clear and direct way used by wallets, explorers, nodes etc.
+
 A.O.T.R.T: agents of the round table, restricted group of Secret Agents actively contributing to open projects and AMA sessions
+
 Auctions: private, decentralized bid auction platform built on Secret Network
+
 **- B**
+
+
 Bazaar: decentralized data marketplace built on-top of DataVault
+
 B.F.T: Byzantine Fault Tolerance, tendermint consensus mechanism used by cosmos blockchains such as Secret Network which gives them the ability to continue operating even if some of their nodes fail or act maliciously
+
 BlackBox: collection of tools to privately transfer funds on Secret network
+
 Bridge: infrastructure that connects two blockchains and allows users to send cryptocurrency from one chain to the other (Secret Network has Ethereum, XMR, BSC and IBC bridges)
+
 Btn.group: collection of private dApps built on Secret Network
+
 **- C**
+
+
 C.C.B.L: Community Curated Bounty List, a community landing place for network-wide needs and ideas that could be funded by the community pool
+
 C.C.R: community code repository, a folder to store smaller community-oriented projects with bounties for developers to contribute to
+
 Community Pool: SCRT fund dedicated to the development of the network managed by the Secret Foundation
 Consensus Mechanism: way of achieving the agreement on a single data value (Secret Network uses the dPoS consensus mechanism)
 **- D**
