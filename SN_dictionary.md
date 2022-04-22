@@ -212,7 +212,8 @@ Liquidity Pool: pool of coins or tokens locked in a smart contract that used to 
 
 *Viewing key*: user generated key needed to view private metadata of secret contracts
 
-*Vulcan*: mainnet Secret Network blockchain upgrade 
+*Vulcan*: mainnet Secret Network blockchain upgrade
+
 **- W**
 
 
