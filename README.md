@@ -185,8 +185,8 @@ Guides about using the Secret Network
 * [Secret Code](https://www.secretcodepodcast.com/) - Hosted by [Eric Waisanen](https://twitter.com/EricWaisanen)
     and [Paul Menexas](https://twitter.com/SecretKnight)
     ([Twitter](https://twitter.com/secretcodepod))
-* [Agents of the Round Table](https://www.youtube.com/channel/UCLCBgCi6j3tmOM2puGyF33A) - Hosted by the[Secret agent community](https://twitter.com/Secret_AOTRT] and the [Education committee](https://twitter.com/ProfessorSCRT)
-* [House of Shade](https://www.youtube.com/channel/UCCK9tPCUf7HNFgg7P1lJd3Q)- Hosted by the [House of shade team](https://twitter.com/House_of_Shade)
+* [Agents of the Round Table](https://www.youtube.com/channel/UCLCBgCi6j3tmOM2puGyF33A) - Hosted by the [Secret agent community](https://twitter.com/Secret_AOTRT) and the [Education committee](https://twitter.com/ProfessorSCRT)
+* [House of Shade](https://www.youtube.com/channel/UCCK9tPCUf7HNFgg7P1lJd3Q) - Hosted by the [House of shade team](https://twitter.com/House_of_Shade)
 
 ## Developer Guides
 Guides about building on the Secret Network
