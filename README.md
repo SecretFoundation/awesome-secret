@@ -212,6 +212,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Secret Py](https://pypi.org/project/secret-sdk/) - Python library for interacting with the network
 * [secret.js](https://github.com/scrtlabs/secret.js) - JavaScript library for interacting with the network
     ([examples](https://github.com/scrtlabs/SecretJS-Templates))
+* [secretk](https://github.com/eqoty-labs/secretk) - Kotlin Multipltform (JVM, Android, iOS, macOS, JS) library for interacting with the network
 * [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
 * [Polar](https://www.npmjs.com/package/secret-polar) - Polar is a framework for building secret contracts. It features facilitates for [project templates](https://github.com/arufa-research/polar-templates), compilation, deployment, javascript interaction (based on schemas), and testing
     ([Docs](https://docs.arufaresearch.com/),
