@@ -121,6 +121,7 @@ Block Explorers and visualization tools
 `pulsar-2`, [Docs](https://github.com/scrtlabs/testnet/blob/master/pulsar-2/details.md) - Maintained by the [Stashh](https://stashh.io/) team
 * [Faucet](https://faucet.secrettestnet.io/) - Run by validator [Chain of Secrets][chainofsecrets]
 * [Secretnodes](https://secretnodes.com/secret/chains/pulsar-2) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
+* [Ping Explorer](https://testnet.ping.pub/secret) - A light explorer for Cosmos-based Blockchains. Includes a basic web wallet, by [ping.pub]
 
 `holodeck-2`, [Docs](https://github.com/scrtlabs/testnet/blob/master/holodeck-2/details.md) - Maintained by validator [Chain of Secrets][chainofsecrets]
 * ~~[Faucet](https://faucet.secrettestnet.io/)~~ - Run by validator [Chain of Secrets][chainofsecrets]
@@ -217,6 +218,7 @@ Tools for interacting with the secret network and for writing Secret Contracts
 * [Secret DataHub](https://figment.io/datahub/secret-network/) by [Figment][figment] - Quickly set up a Secret Node on mainnet or testnet for your application
 * [Secret API](https://secretapi.io/) - Web API for using Secret Network by [Chain of Secrets][chainofsecrets]
 * [Secret Py](https://pypi.org/project/secret-sdk/) - Python library for interacting with the network
+* [secretk](https://github.com/eqoty-labs/secretk) - Kotlin Multiplatform (JVM, Android, iOS, macOS, JS) library for interacting with the network
 * [secret.js](https://github.com/scrtlabs/secret.js) - JavaScript library for interacting with the network
     ([examples](https://github.com/scrtlabs/SecretJS-Templates))
 * [Griptape.js](https://griptapejs.com/) - By Validator [Stake or Die][stakeordie], a front-end web framework for developing DApps on the network
