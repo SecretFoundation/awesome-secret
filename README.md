@@ -1,9 +1,11 @@
-** Deprecated ** 
+**Deprecated** 
 
 You can find the updated version of the Secret Network ecosystem overview on the [documentation page](https://docs.scrt.network/secret-network-documentation/ecosystem-overview).
 
 
+**Deprecated**
 
+-----------------------------------------------------
 
 # Awesome Secret List :shushing_face: 𝕊
 
