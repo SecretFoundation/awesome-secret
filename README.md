@@ -1,3 +1,10 @@
+** Deprecated ** 
+
+You can find the updated version of the Secret Network ecosystem overview on the [documentation page](https://docs.scrt.network/secret-network-documentation/ecosystem-overview).
+
+
+
+
 # Awesome Secret List :shushing_face: 𝕊
 
 This is a list of great [Secret Network](https://scrt.network) related projects, tools, games, and more!
