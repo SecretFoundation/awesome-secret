@@ -113,6 +113,7 @@ Block Explorers and visualization tools
 ### Testnet
 `pulsar-2`, [Docs](https://github.com/scrtlabs/testnet/blob/master/pulsar-2/details.md) - Maintained by the [Stashh](https://stashh.io/) team
 * [Faucet](https://faucet.secrettestnet.io/) - Run by validator [Chain of Secrets][chainofsecrets]
+* [Faucet backup](https://faucet.pulsar.scrttestnet.com)
 * [Secretnodes](https://secretnodes.com/secret/chains/pulsar-2) - Highly featured explorer, originally funded by the network, run by validator [Secretnodes][secretnodes]
 * [Ping Explorer](https://testnet.ping.pub/secret) - A light explorer for Cosmos-based Blockchains. Includes a basic web wallet, by [ping.pub]
 
